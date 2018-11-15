@@ -22,4 +22,6 @@ A route is described as:
 
 ## Todo
 * Tests
-* Everything else
+* GET a single entity of a route
+* POST to a route to add entities (with some kind of validation)
+* PUT to a single entity to update it (with some kind of validation)
