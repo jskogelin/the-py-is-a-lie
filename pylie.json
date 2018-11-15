@@ -1,0 +1,14 @@
+{
+  "base": "http://localhost:8080",
+  "routes": {
+    "/my/route": {
+      "range": [40, 70],
+      "data": {
+        "id": "__id__",
+        "firstname": "__firstname__",
+        "firstname": "__lastname__",
+        "type": "user"
+      }
+    }
+  }
+}
